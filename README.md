@@ -10,8 +10,6 @@ This is a portfolio website template for a developer, showcasing personal inform
 - [Live Demo](#live-demo)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
-- [Screenshots](#screenshots)
-- [Contact](#contact)
 
 ## Description
 

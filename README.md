@@ -7,7 +7,7 @@ This is a portfolio website template for a developer, showcasing personal inform
 - [Description](#description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [File Structure](#file-structure)
+- [Live Demo](#live-demo)
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Screenshots](#screenshots)
@@ -31,21 +31,15 @@ This portfolio website template is designed to help developers showcase their wo
 - JavaScript
 - Google Fonts
 
-## File Structure
+## Live Demo
 
-```plaintext
-.
-├── index.html
-├── style.css
-├── index.js
-├── sarvesh.jpeg
-├── list.svg
-├── linkedin-ico.png
-├── github-ico.png
-├── project-mockup-example.JPG
-├── prayaas.jpeg
-└── bda.JPG
+Check out the live demo of the portfolio website [here](https://001sarvesh.github.io/Portfolio-website/).
 
+## Getting Started
 
+To get a local copy up and running follow these simple steps:
 
-Feel free to replace the placeholder text and image file paths with the actual content specific to your project.
+### Prerequisites
+
+- Web browser (Google Chrome, Firefox, etc.)
+- Code editor (VSCode, Sublime Text, etc.)
